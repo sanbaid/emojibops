@@ -48,6 +48,14 @@ const emojiItems = [
         genres: ["soundtrack", "pop"],
         year: 2003
     },{
+        title:"Eye of the Tiger",
+        artist:["Survivor"],
+        featuredArtist:[],
+        emojiImgs:"👁️🐯🔥💪🥊",
+        musicVideo:"https://www.youtube.com/watch?v=btPJPFnesV4",
+        genres:["rock", "soundtrack"],
+        year: 1982,
+    },{
         title: "I Wanna Dance with Somebody",
         artist: ["Whitney Houston"],
         featuredArtist: [],
